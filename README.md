@@ -21,3 +21,5 @@ It is bulit on more than **100 small islands** in a lagoon in the Adriatic Sea. 
   * snacks
 * Buy some swim wear
 * Buy cooling glasses
+
+[AboutMe](https://github.com/S545389/assignment2-merugu/blob/main/AboutMe.md)
