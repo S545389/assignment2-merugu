@@ -49,7 +49,7 @@ The below table has the food recommendations in maryville city. My personal choi
 
 # Check whether a graph is bipartite
 > When modelling relations between two different classes of objects, bipartite graphs very often arise naturally. For instance, a graph of football players and clubs, with an edge between a player and a club if the player has played for that club, is a natural example of an affiliation network, a type of bipartite graph used in social network analysis.Another example where bipartite graphs appear naturally is in the (NP-complete) railway optimization problem, in which the input is a schedule of trains and their stops, and the goal is to find a set of train stations as small as possible such that every train visits at least one of the chosen stations. This problem can be modeled as a dominating set problem in a bipartite graph that has a vertex for each train and each station and an edge for each pair of a station and a train that stops at that station.A third example is in the academic field of numismatics. Ancient coins are made using two positive impressions of the design (the obverse and reverse). The charts numismatists produce to represent the production of coins are bipartite graphs.
-[Read More](https://en.wikipedia.org/wiki/Bipartite_graph)
+Read More <https://en.wikipedia.org/wiki/Bipartite_graph>
 ```
 int n;
 vector<vector<int>> adj;
@@ -78,6 +78,6 @@ for (int st = 0; st < n; ++st) {
 
 cout << (is_bipartite ? "YES" : "NO") << endl;
 ```
-[Read More](https://cp-algorithms.com/graph/bipartite-check.html)
+Read More <https://cp-algorithms.com/graph/bipartite-check.html>
 
 
