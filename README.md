@@ -23,3 +23,17 @@ It is bulit on more than **100 small islands** in a lagoon in the Adriatic Sea. 
 * Buy cooling glasses
 
 [AboutMe](https://github.com/S545389/assignment2-merugu/blob/main/AboutMe.md)
+
+***
+
+# Food Recommendation
+
+The below table has the food recommendations in maryville city. My personal choice would be croissant which is available in  walmart,chicken nuggets at MCD are delicious. For dinner chicken Biryani at Godavari is tasty with great aroma. Lastly, a shot of coke which is found in walmart would complete the day.
+
+|  food/drink(item)         |   location   |   price   |
+|        ----                      |       ---    | ---: |
+| croissant                 |    walmart   |   $8.99   |
+| chicken nuggets           |     McD      |   $9.00   |
+| chicken biryani           |   godavari   |  $25.00   |
+| coke                      |   walmart    |   $1.77   |
+
