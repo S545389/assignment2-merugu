@@ -37,3 +37,12 @@ The below table has the food recommendations in maryville city. My personal choi
 | chicken biryani           |   godavari   |  $25.00   |
 | coke                      |   walmart    |   $1.77   |
 
+***
+
+# Quotes
+
+> "Either get busy living or get busy dying" - *STEPHEN KING*
+
+> "Not all those who wander are lost" - *J.R.R TOLKIEN*
+
+
